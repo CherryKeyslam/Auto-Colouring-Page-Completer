@@ -11,14 +11,14 @@ Best works with less than
 
 To operate it:
 
-- After downloading the python file,
+- You need to download python 3 or above and the PIL/pillow module.
 
-- Create a folder named "to_colour"
+- Download **this** python file
 
-- And another one named "coloured" in the same place as the python file
+- Create a folder named "to_colour" in the same place as the python file
+
+- And another one named "coloured"
 
 - Place the images you want to colour in the "to_colour" folder.
 
 - and run the program! The coloured pictures will appear in the "coloured" folder.
-
-And of course, as some prerequisites , you need to download python 3 or above and the PIL/pillow module.
