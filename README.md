@@ -1,9 +1,9 @@
 # Auto-Colouring-Page-Completer
 Completes colouring pages made for children or adults.
 
-Best works with less than 
+Best works with
 
-- 800x800 resolution
+- around 800x800 resolution images
 
 - colouring pages with fixed, dark borders
 
