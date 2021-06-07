@@ -49,5 +49,5 @@ for file in os.listdir("./to_colour/"):
         if count == 5:
             count = -1
 
-    newimage.save("coloured/{}_coloured.png".format(os.path.splitext(file)[0]))
+    newimage.save("coloured/{}_coloured{}".format(os.path.splitext(file)[0],os.path.splitext(file)[1]))
     newimage.show()
