@@ -13,4 +13,10 @@ To operate it:
 
 - After downloading the python file,
 
-- Create a folder named ""
+- Create a folder named "to_colour"
+
+- And another one named "coloured" in the same place as the python file
+
+- Place the images you want to colour in the "to_colour" folder.
+
+- and run the program! The coloured pictures will appear in the "coloured" folder.
