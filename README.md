@@ -5,4 +5,6 @@ Best works with less than
 
 - 800x800 resolution
 
+- colouring pages with fixed borders
+
 - asymmetrical images.
