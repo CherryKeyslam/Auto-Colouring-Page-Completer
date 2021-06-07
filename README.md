@@ -8,3 +8,9 @@ Best works with less than
 - colouring pages with fixed borders
 
 - asymmetrical images.
+
+To operate it:
+
+- After downloading the python file,
+
+- Create a folder named ""
