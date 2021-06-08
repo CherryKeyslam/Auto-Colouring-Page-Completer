@@ -11,8 +11,8 @@ for file in os.listdir("./to_colour/"):
 
     newdata = []
 
-    for kuple in imgdata:
-        if int(kuple) > 200:
+    for pixelvalue in imgdata:
+        if int(pixelvalue) > 200:
             newdata.append(white)
         else:
             newdata.append(black)
