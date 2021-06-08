@@ -18,3 +18,5 @@ To operate it:
 - Place the images you want to colour in the "to_colour" folder.
 
 - and run the program! The coloured pictures will appear in the "coloured" folder.
+
+(And of course you need python 3 or above and the PIL module)
