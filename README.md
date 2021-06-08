@@ -9,8 +9,6 @@ Best works with
 
 To operate it:
 
-- You need to download python 3 or above and the PIL/pillow module.
-
 - Download **this** python file
 
 - Create a folder named "to_colour" in the same place as the python file
