@@ -20,3 +20,7 @@ To operate it:
 - and run the program! The coloured pictures will appear in the "coloured" folder.
 
 (And of course you need python 3 or above and the PIL module)
+
+![](examples/cat/cat.jpg)
+
+![](examples/cat/cat_coloured.jpg)
